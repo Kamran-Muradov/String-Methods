@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5iewmFP5Xpbz7atbAaaY2mf++zu+Ml70sBAC7YXLdQ/9mDbcIh4qwWGYR9PBkZYdWv5E6gg9fUfvjF2tL1LR5w==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace Code Academy\\String-Methods\\String-Methods\\String-Methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

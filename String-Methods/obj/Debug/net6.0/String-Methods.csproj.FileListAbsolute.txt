@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\String-Methods\String-Methods\bin\Debug\net6.0\String-Methods.exe
+C:\Workspace Code Academy\String-Methods\String-Methods\bin\Debug\net6.0\String-Methods.deps.json
+C:\Workspace Code Academy\String-Methods\String-Methods\bin\Debug\net6.0\String-Methods.runtimeconfig.json
+C:\Workspace Code Academy\String-Methods\String-Methods\bin\Debug\net6.0\String-Methods.dll
+C:\Workspace Code Academy\String-Methods\String-Methods\bin\Debug\net6.0\String-Methods.pdb
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\String-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\String-Methods.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\String-Methods.AssemblyInfo.cs
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\String-Methods.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\String-Methods.dll
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\refint\String-Methods.dll
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\String-Methods.pdb
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\String-Methods.genruntimeconfig.cache
+C:\Workspace Code Academy\String-Methods\String-Methods\obj\Debug\net6.0\ref\String-Methods.dll
